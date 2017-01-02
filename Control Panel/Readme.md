@@ -1,4 +1,5 @@
 These are the associated files used for the control panel upgrade on the K40 Laser Cutter.
+I have uploaded the STL files along with the STEP and F3d files in case you need to make any modifications to the models. (everything except for the knob. I only have an stl for that)
 
 This was designed to be used with a Reprap Discount Full Graphic Smart Controller.
 
